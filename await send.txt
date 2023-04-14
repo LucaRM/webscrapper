@@ -1,0 +1,6 @@
+await websocket.send(store) #send to client 
+await websocket.send(link) #send to client 
+await websocket.send(title) #send to client
+await websocket.send(image) #send to client
+await websocket.send(price) #send to client
+await websocket.send(brand) #send to client
